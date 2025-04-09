@@ -1,0 +1,17 @@
+{
+  "rootHash": "0x33aebc94993cc66b731d041b417f960a3b93037a0cd48c3e376dfaa5357e4bdb",
+  "wallets": [
+    {
+      "address": "0xEbb572059363FA4FfF24781b24650Dc8ea74d33F",
+      "proof": [
+        "0xf310642d0057c332f26268fdaa4f89cbfada78c3e90b9a37fa844332ef1e9dfb"
+      ]
+    },
+    {
+      "address": "0x6246C17093D6c640E140523BA0ed3C31fb11C4AB",
+      "proof": [
+        "0x7a83618d7ac020192111667f23e832f556af4273f5b8d835af1d53dfad2be8fe"
+      ]
+    }
+  ]
+}
